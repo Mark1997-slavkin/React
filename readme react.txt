@@ -18,8 +18,8 @@ Table of Contents
 
 1. Installation
 To run this project locally:
-- Clone the repository: `git clone https://github.com/ori0547/ReactCardsProject.git`
-- Navigate to the project directory: `cd ReactCardsProject`
+- Clone the repository
+- Navigate to the project directory
 - Install dependencies: `npm install`
 - Run the project: `npm run dev` (Vite will start the development server)
 
