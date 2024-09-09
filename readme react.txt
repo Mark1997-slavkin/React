@@ -4,6 +4,8 @@ React Cards Project - ReadMe
 Project Overview
 This project is a simple React.js web application that displays cards based on search results. The main components include a search field, a list of cards, and responsive design elements for both desktop and mobile views. The project integrates functionality for liking items, handling user authentication, and dynamically adjusting the layout depending on the device.
 
+This project is built using **Vite** as the build tool, which offers faster development and optimized builds. Additionally, **MUI (Material-UI)** is used for styling components, providing a clean and modern look. The project is hosted on a server provided by the college.
+
 Table of Contents
 1. Installation
 2. Project Structure
@@ -19,7 +21,7 @@ To run this project locally:
 - Clone the repository: `git clone https://github.com/ori0547/ReactCardsProject.git`
 - Navigate to the project directory: `cd ReactCardsProject`
 - Install dependencies: `npm install`
-- Run the project: `npm run dev`
+- Run the project: `npm run dev` (Vite will start the development server)
 
 2. Project Structure
 The project is structured as follows:
